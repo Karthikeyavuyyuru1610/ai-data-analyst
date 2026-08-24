@@ -1,0 +1,140 @@
+date,product,category,region,salesperson,quantity,revenue,profit,customer
+2024-03-01,Laptop Pro,Electronics,West,Charlie,4,6971.51,1108.87,Acme Corp
+2024-03-01,Laptop Pro,Electronics,North,Alice,1,1792.29,333.36,Soylent Corp
+2024-03-01,Standing Desk,Furniture,East,Diana,7,4300.32,1232.24,Soylent Corp
+2024-03-01,Notebook Set,Stationery,South,Frank,2,30.32,7.81,Wayne Enterprises
+2024-03-01,Wireless Mouse,Electronics,North,Alice,8,186.25,48.22,Stark Industries
+2024-03-02,Wireless Mouse,Electronics,West,Charlie,5,96.7,31.43,Initech
+2024-03-02,Laptop Pro,Electronics,West,Eve,4,6460.51,,Acme Corp
+2024-03-02,Notebook Set,Stationery,North,Bob,7,149.35,38.53,Acme Corp
+2024-03-02,Laptop Pro,Electronics,South,Eve,4,5970.69,1769.14,Stark Industries
+2024-03-03,Wireless Mouse,Electronics,East,Bob,4,73.7,15.11,Wonka Industries
+2024-03-03,Notebook Set,Stationery,South,Frank,9,145.67,50.18,Cyberdyne
+2024-03-03,Standing Desk,Furniture,East,Frank,7,4100.61,923.83,Cyberdyne
+2024-03-03,Standing Desk,Furniture,South,Bob,3,1805.03,600.98,Stark Industries
+2024-03-03,Standing Desk,Furniture,South,Diana,5,2666.79,744.94,Umbrella Co
+2024-03-04,Laptop Pro,Electronics,South,Alice,7,10169.37,2751.67,Stark Industries
+2024-03-04,Wireless Mouse,Electronics,South,Diana,6,97.26,32.27,Umbrella Co
+2024-03-04,Wireless Mouse,Electronics,North,Frank,4,93.52,27.19,Soylent Corp
+2024-03-04,Wireless Mouse,Electronics,East,Charlie,8,151.01,33.5,Cyberdyne
+2024-03-04,Notebook Set,Stationery,West,Diana,8,166.69,35.68,Globex Inc
+2024-03-05,Standing Desk,Furniture,North,Eve,3,2048.56,533.98,Umbrella Co
+2024-03-05,Standing Desk,Furniture,East,Bob,6,3575.89,943.88,Umbrella Co
+2024-03-05,Notebook Set,Stationery,East,Charlie,8,142.87,42.37,Soylent Corp
+2024-03-05,Wireless Mouse,Electronics,West,Bob,1,20.72,6.59,Wonka Industries
+2024-03-05,Laptop Pro,Electronics,North,Diana,4,6840.99,1232.79,Initech
+2024-03-06,Office Chair,Furniture,North,Eve,8,3813.74,584.06,Dunder Mifflin
+2024-03-06,Standing Desk,Furniture,North,Alice,5,3807.02,789.34,Wonka Industries
+2024-03-06,Standing Desk,Furniture,South,Alice,9,4744.66,893.83,Globex Inc
+2024-03-06,Office Chair,Furniture,East,Diana,6,2522.2,609.87,Globex Inc
+2024-03-06,Wireless Mouse,Electronics,East,Frank,1,17.23,3.89,Globex Inc
+2024-03-06,Laptop Pro,Electronics,North,Frank,2,3743.89,886.49,Initech
+2024-03-07,Notebook Set,Stationery,North,Bob,10,214.94,34.24,Umbrella Co
+2024-03-07,Office Chair,Furniture,North,Bob,1,504.64,134.94,Wayne Enterprises
+2024-03-07,Standing Desk,Furniture,North,Charlie,10,7167.59,2271.63,Initech
+2024-03-08,Standing Desk,Furniture,South,Frank,9,5353.51,1173.34,Globex Inc
+2024-03-08,Wireless Mouse,Electronics,North,Charlie,10,245.47,56.3,Dunder Mifflin
+2024-03-08,Laptop Pro,Electronics,East,Diana,4,6060.05,2049.68,Soylent Corp
+2024-03-08,Notebook Set,Stationery,West,Alice,5,104.9,30.7,Dunder Mifflin
+2024-03-08,Wireless Mouse,Electronics,West,Frank,7,139.08,,Initech
+2024-03-09,Standing Desk,Furniture,East,Charlie,3,1734.0,409.56,Globex Inc
+2024-03-09,Notebook Set,Stationery,West,Alice,2,38.44,6.48,Acme Corp
+2024-03-09,Office Chair,Furniture,West,Alice,7,2897.98,483.79,Stark Industries
+2024-03-09,Wireless Mouse,Electronics,South,Frank,3,46.97,9.87,Cyberdyne
+2024-03-09,Laptop Pro,Electronics,South,Diana,7,9434.39,2891.95,Stark Industries
+2024-03-10,Standing Desk,Furniture,South,Diana,3,1634.54,555.36,Globex Inc
+2024-03-10,Notebook Set,Stationery,West,Charlie,6,117.15,36.87,Soylent Corp
+2024-03-10,Notebook Set,Stationery,South,Charlie,10,176.49,33.56,Wayne Enterprises
+2024-03-10,Standing Desk,Furniture,East,Charlie,10,6655.29,1432.07,Soylent Corp
+2024-03-11,Office Chair,Furniture,North,Eve,10,5079.47,944.71,Umbrella Co
+2024-03-11,Laptop Pro,Electronics,West,Frank,8,14545.33,4600.05,Umbrella Co
+2024-03-11,Standing Desk,Furniture,West,Bob,4,2634.89,476.46,Stark Industries
+2024-03-11,Standing Desk,Furniture,North,Diana,8,6147.48,1579.12,Dunder Mifflin
+2024-03-11,Standing Desk,Furniture,North,Charlie,10,7768.93,1297.38,Wonka Industries
+2024-03-11,Office Chair,Furniture,South,Frank,1,350.88,97.9,Dunder Mifflin
+2024-03-12,Standing Desk,Furniture,North,Alice,5,3569.83,1068.7,Globex Inc
+2024-03-12,Notebook Set,Stationery,South,Diana,7,112.56,32.18,Wayne Enterprises
+2024-03-12,Wireless Mouse,Electronics,East,Alice,2,35.97,12.02,Soylent Corp
+2024-03-12,Wireless Mouse,Electronics,East,Charlie,8,158.53,40.3,Wayne Enterprises
+2024-03-12,Laptop Pro,Electronics,West,Frank,6,9404.73,1494.76,Soylent Corp
+2024-03-13,Office Chair,Furniture,North,Frank,4,1853.91,482.72,Initech
+2024-03-13,Standing Desk,Furniture,West,Bob,3,1948.6,548.46,Cyberdyne
+2024-03-13,Notebook Set,Stationery,South,Diana,7,110.88,32.26,Dunder Mifflin
+2024-03-14,Notebook Set,Stationery,North,Eve,6,125.09,30.21,Initech
+2024-03-14,Standing Desk,Furniture,East,Eve,10,6164.61,1065.53,Cyberdyne
+2024-03-14,Standing Desk,Furniture,South,Frank,10,5772.25,1641.75,Stark Industries
+2024-03-15,Office Chair,Furniture,North,Bob,3,1389.0,324.54,Wayne Enterprises
+2024-03-15,Standing Desk,Furniture,West,Bob,9,6478.29,1807.78,Soylent Corp
+2024-03-15,Notebook Set,Stationery,South,Diana,3,45.56,14.51,Stark Industries
+2024-03-15,Office Chair,Furniture,North,Diana,4,1964.5,673.36,Initech
+2024-03-16,Standing Desk,Furniture,West,Diana,8,5175.05,1361.45,Soylent Corp
+2024-03-16,Wireless Mouse,Electronics,East,Alice,4,75.56,13.88,Stark Industries
+2024-03-16,Standing Desk,Furniture,North,Eve,5,3987.99,1254.85,Globex Inc
+2024-03-16,Laptop Pro,Electronics,West,Eve,7,11056.85,3494.12,Umbrella Co
+2024-03-16,Office Chair,Furniture,North,Diana,6,2972.8,497.64,Stark Industries
+2024-03-16,Laptop Pro,Electronics,South,Bob,6,9032.29,2457.26,Dunder Mifflin
+2024-03-17,Wireless Mouse,Electronics,South,Alice,6,101.9,27.45,Dunder Mifflin
+2024-03-17,Office Chair,Furniture,East,Eve,9,3801.44,1086.68,Stark Industries
+2024-03-17,Standing Desk,Furniture,North,Charlie,3,2154.45,629.7,Initech
+2024-03-17,Standing Desk,Furniture,West,Bob,5,3553.57,799.68,Dunder Mifflin
+2024-03-18,Standing Desk,Furniture,East,Frank,8,5493.86,,Wayne Enterprises
+2024-03-18,Laptop Pro,Electronics,West,Frank,2,3634.95,834.38,Wayne Enterprises
+2024-03-18,Wireless Mouse,Electronics,West,Charlie,5,99.78,26.5,Wayne Enterprises
+2024-03-19,Office Chair,Furniture,North,Alice,8,3338.44,1121.34,Globex Inc
+2024-03-19,Standing Desk,Furniture,North,Diana,3,2441.34,513.59,Umbrella Co
+2024-03-19,Office Chair,Furniture,North,Frank,5,2117.08,598.93,Wayne Enterprises
+2024-03-19,Laptop Pro,Electronics,West,Frank,4,6766.85,1138.45,Stark Industries
+2024-03-19,Wireless Mouse,Electronics,West,Alice,10,194.96,,Initech
+2024-03-19,Office Chair,Furniture,North,Diana,8,3378.76,765.67,Initech
+2024-03-20,Laptop Pro,Electronics,East,Charlie,3,4570.23,1428.99,Stark Industries
+2024-03-20,Wireless Mouse,Electronics,North,Eve,1,23.0,4.2,Dunder Mifflin
+2024-03-20,Wireless Mouse,Electronics,South,Diana,8,144.72,24.22,Dunder Mifflin
+2024-03-21,Notebook Set,Stationery,West,Charlie,6,125.72,25.09,Cyberdyne
+2024-03-21,Wireless Mouse,Electronics,East,Frank,5,88.23,23.94,Acme Corp
+2024-03-21,Standing Desk,Furniture,East,Frank,4,2517.42,434.38,Acme Corp
+2024-03-22,Notebook Set,Stationery,North,Charlie,3,63.33,20.13,Wayne Enterprises
+2024-03-22,Notebook Set,Stationery,South,Diana,1,16.48,2.52,Globex Inc
+2024-03-22,Laptop Pro,Electronics,West,Eve,9,16269.05,3818.59,Stark Industries
+2024-03-23,Office Chair,Furniture,North,Charlie,9,4508.04,1554.65,Globex Inc
+2024-03-23,Office Chair,Furniture,West,Eve,5,2201.64,651.67,Globex Inc
+2024-03-23,Laptop Pro,Electronics,South,Alice,2,2781.81,756.0,Cyberdyne
+2024-03-23,Wireless Mouse,Electronics,North,Alice,1,20.99,7.15,Initech
+2024-03-24,Wireless Mouse,Electronics,East,Bob,2,39.54,6.16,Stark Industries
+2024-03-24,Office Chair,Furniture,North,Charlie,2,923.29,232.81,Dunder Mifflin
+2024-03-24,Notebook Set,Stationery,South,Charlie,5,85.43,28.09,Initech
+2024-03-24,Laptop Pro,Electronics,South,Frank,1,1275.97,411.61,Wonka Industries
+2024-03-24,Standing Desk,Furniture,East,Diana,3,2052.98,660.03,Initech
+2024-03-25,Wireless Mouse,Electronics,East,Bob,6,107.35,17.77,Cyberdyne
+2024-03-25,Notebook Set,Stationery,North,Bob,9,213.12,72.63,Umbrella Co
+2024-03-25,Standing Desk,Furniture,East,Charlie,2,1273.38,193.04,Wayne Enterprises
+2024-03-25,Notebook Set,Stationery,East,Frank,4,71.48,19.18,Dunder Mifflin
+2024-03-25,Wireless Mouse,Electronics,South,Bob,7,106.88,27.61,Acme Corp
+2024-03-25,Laptop Pro,Electronics,East,Alice,5,7182.16,1838.37,Cyberdyne
+2024-03-26,Laptop Pro,Electronics,South,Frank,2,2551.85,500.91,Stark Industries
+2024-03-26,Standing Desk,Furniture,East,Diana,10,5790.43,1023.19,Globex Inc
+2024-03-26,Laptop Pro,Electronics,North,Diana,4,7176.01,2297.63,Initech
+2024-03-26,Standing Desk,Furniture,East,Charlie,5,2982.18,1010.1,Soylent Corp
+2024-03-26,Notebook Set,Stationery,North,Bob,3,64.15,13.65,Globex Inc
+2024-03-26,Office Chair,Furniture,South,Diana,8,2641.72,459.61,Stark Industries
+2024-03-27,Notebook Set,Stationery,North,Bob,3,59.5,11.88,Wayne Enterprises
+2024-03-27,Notebook Set,Stationery,North,Frank,5,114.91,21.23,Stark Industries
+2024-03-27,Standing Desk,Furniture,South,Alice,2,1202.92,,Soylent Corp
+2024-03-27,Wireless Mouse,Electronics,South,Bob,6,105.02,35.45,Cyberdyne
+2024-03-27,Notebook Set,Stationery,East,Alice,2,33.82,9.44,Acme Corp
+2024-03-28,Office Chair,Furniture,North,Alice,1,431.32,114.2,Soylent Corp
+2024-03-28,Standing Desk,Furniture,West,Alice,7,4533.56,874.72,Cyberdyne
+2024-03-28,Office Chair,Furniture,West,Bob,10,4335.94,863.53,Acme Corp
+2024-03-29,Notebook Set,Stationery,West,Alice,5,96.68,22.61,Globex Inc
+2024-03-29,Notebook Set,Stationery,South,Frank,1,17.79,5.45,Wonka Industries
+2024-03-29,Notebook Set,Stationery,West,Charlie,9,171.84,,Dunder Mifflin
+2024-03-29,Notebook Set,Stationery,South,Alice,1,17.2,4.2,Stark Industries
+2024-03-29,Notebook Set,Stationery,South,Bob,4,66.83,13.59,Globex Inc
+2024-03-29,Laptop Pro,Electronics,South,Eve,6,9157.24,3189.54,Cyberdyne
+2024-03-30,Notebook Set,Stationery,East,Frank,10,163.02,47.29,Wayne Enterprises
+2024-03-30,Notebook Set,Stationery,South,Eve,8,130.69,,Umbrella Co
+2024-03-30,Laptop Pro,Electronics,South,Eve,1,1411.43,211.91,Umbrella Co
+2024-03-30,Wireless Mouse,Electronics,South,Charlie,6,92.33,16.58,Initech
+2024-03-31,Laptop Pro,Electronics,East,Alice,7,11107.86,2413.87,Wayne Enterprises
+2024-03-31,Wireless Mouse,Electronics,West,Frank,6,115.69,39.77,Soylent Corp
+2024-03-31,Notebook Set,Stationery,East,Bob,3,52.69,15.64,Dunder Mifflin
+2024-03-31,Wireless Mouse,Electronics,North,Frank,7,168.55,51.27,Dunder Mifflin
